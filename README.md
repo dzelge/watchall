@@ -1,2 +1,5 @@
 # watchall
-execute a program periodically, showing output scrollable fullscreen.
+
+watchall executes a program periodically, showing output fullscreen same as linux watch command
+but with scrolling feature. This repo is a copy of watchall from pip. The original version does not run with 
+Python 3 due to a Python 2 print-bracket-issue.
